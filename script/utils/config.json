@@ -1,0 +1,5 @@
+{
+    "serverAdddress" : "http://localhost:8000",
+    "serverSchemaAddress" : "http://localhost:8000/api-doc"
+
+}
